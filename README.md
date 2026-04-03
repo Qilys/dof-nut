@@ -1,6 +1,7 @@
 # DNF Squirrel 脚本开发攻略
 
 > 本文档整理了 DNF 游戏中使用 Squirrel 脚本进行开发的各种函数、事件处理和 API 说明
+> 自用侵删，复制于gitee的zhipengwang0916/dof-xinghe
 
 ## 📚 文档目录
 
